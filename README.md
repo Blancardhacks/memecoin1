@@ -1,2 +1,1 @@
-# memecoin1
-First Solana memecoin Project
+#This is a memecoin creation project trial
